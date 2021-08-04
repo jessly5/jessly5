@@ -1,7 +1,7 @@
 ## 👋 Hello
 ---
 
-I am a recent 2021 graduate looking for opportunities in development and UX
+
 
 ---
 
